@@ -1,14 +1,13 @@
-<!-- Center the dots GIF -->
 <p align="center">
     <img src="https://raw.githubusercontent.com/tomweston/tomweston/master/images/dots.gif" alt="Dots">
 </p>
-
-<!-- Creating two tables -->
-<table>
+<table align="center">
     <tr>
-        <!-- Table for the badges -->
         <td>
-            <table>
+            <table align="center">
+                <p align="center">
+                    <img src="https://raw.githubusercontent.com/tomweston/tomweston/master/images/lineart.png" alt="Lineart">
+                </p>
                 <tr>
                     <td><a href="https://github.com/tomweston" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@tomweston-181717?style=flat-square&logo=GitHub&logoColor=white"></a></td>
                     <td><a href="https://www.linkedin.com/in/westontom" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a></td>
@@ -31,8 +30,6 @@
                 </tr>
             </table>
         </td>
-
-        <!-- Table for the GitHub stats -->
         <td>
             <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tomweston&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
             <br>
