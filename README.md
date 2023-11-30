@@ -1,39 +1,44 @@
+<h1 align="center"> 👋 </h1>
+<div align="center">
+  <img src="https://github.com/tomweston/tomweston/blob/master/images/header.gif" alt="header"/>
+</div>
+<p align="center"> (Open for Hiring)</p>
+
+<h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
-    <img src="https://raw.githubusercontent.com/tomweston/tomweston/master/images/dots.gif" alt="Dots">
+  <samp>Im a resilient technical engineer with a forte in site reliability and distributed systems, recognised for architecting and operationalising high-availability systems for complex enterprise environments. I excel at spearheading teams towards technological excellence and operational efficiency and have a tendency to take things apart and void warranties.
+  </samp>
+  <br> <br>
+  <img src="https://komarev.com/ghpvc/?username=tomweston" alt="https://github.com/tomweston" />
 </p>
-<table align="center">
-    <tr>
-        <td>
-            <table align="center">
-                <p align="center">
-                 <img src="https://raw.githubusercontent.com/tomweston/tomweston/master/images/lineart.png" alt="Lineart" width="300" height="300">
-                </p>
-                <tr>
-                    <td><a href="https://github.com/tomweston" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@tomweston-181717?style=flat-square&logo=GitHub&logoColor=white"></a></td>
-                    <td><a href="https://www.linkedin.com/in/westontom" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a></td>
-                </tr>
-                <tr>
-                    <td><a href="https://github.com/tomweston?tab=repositories&language=go" target="_blank"><img alt="Go" src="https://img.shields.io/badge/-Go-276DC3?style=flat-square&logo=Go&logoColor=white"></a></td>
-                    <td><a href="https://github.com/tomweston?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python&logoColor=white"></a></td>
-                </tr>
-                <tr>
-                    <td><a href="https://github.com/tomweston?tab=repositories&language=shell" target="_blank"><img alt="Bash" src="https://img.shields.io/badge/-Bash-orange?style=flat-square&logo=PowerShell&logoColor=white"></a></td>
-                    <td><a href="https://github.com/tomweston?tab=repositories&language=typescript" target="_blank"><img alt="Typescript" src="https://img.shields.io/badge/-Typescript-0076A8?style=flat-square&logo=Typescript&logoColor=white"></a></td>
-                </tr>
-                <tr>
-                    <td><a href="https://github.com/tomweston?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a></td>
-                    <td><a href="https://github.com/tomweston" target="_blank"><img alt="tomweston" src="https://badges.pufler.dev/visits/tomweston/tomweston?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a></td>
-                </tr>
-                <tr>
-                    <td><a href="https://github.com/tomweston" target="_blank"><img alt="profile hits" src="https://img.shields.io/jsdelivr/gh/hw/tomweston/tomweston?label=hits&style=flat-square"></a></td>
-                    <td><a href="https://github.com/tomweston/tomweston" target="_blank"><img alt="GitHub Hits" src="https://img.shields.io/github/last-commit/tomweston/tomweston?label=Profile%20Updated&style=flat-square"></a></td>
-                </tr>
-            </table>
-        </td>
-        <td>
-            <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=tomweston&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
-            <br>
-            <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomweston&hide=html,&hide_border=true&title_color=5391FE&text_color=555">
-        </td>
-    </tr>
-</table>
+
+<hr>
+
+<h2 align="center"> 🛠️ Technical Skills</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/go%20-%231572B6.svg?&style=for-the-badge&logo=Go&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/tailwind-css%20-%231572B6.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;&nbsp;
+</p>
+<p align="center">AWS • GCP • Azure • Microservices • Distributed Systems • Golang • Python • React • Typescript • Serverless • NoSQL • APIs • CI/CD • Terraform • Pulumi • Git • Github • Gitlab • Docker • Kubernetes • Helm • Istio • Argo • Grafana • Prometheus • Datadog • Pagerduty • AI • Agile/Scrum</p>
+
+<hr>
+
+<h2 align="center"> 🔭 Publications</h2>
+<p align="center" align='right'>
+  <a target="_blank"href="https://dev.to/tomweston"><img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://medium.com/@tomweston"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+</p>
+
+<hr>
+
+<h2  align="center">📦 Reach me on</h2>
+<p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/westontom-0328b1101/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://twitter.com/tomweston"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:weston.tom@gmail.com?subject=Hello%20Tom,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<hr>
+
+<h2  align="center">💻 What I'm working on ⬇️ </h2>
