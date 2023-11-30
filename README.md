@@ -6,7 +6,7 @@
         <td>
             <table align="center">
                 <p align="center">
-                    <img src="https://raw.githubusercontent.com/tomweston/tomweston/master/images/lineart.png" alt="Lineart">
+                 <img src="https://raw.githubusercontent.com/tomweston/tomweston/master/images/lineart.png" alt="Lineart" width="300" height="300">
                 </p>
                 <tr>
                     <td><a href="https://github.com/tomweston" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@tomweston-181717?style=flat-square&logo=GitHub&logoColor=white"></a></td>
