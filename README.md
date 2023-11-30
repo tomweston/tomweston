@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 </h1>
 <div align="center">
-  <img src="https://github.com/tomweston/tomweston/blob/master/images/header.gif" alt="header"/>
+  <img src="https://github.com/tomweston/tomweston/blob/main/images/header.gif" alt="header"/>
 </div>
 <p align="center"> (Open for Hiring)</p>
 
